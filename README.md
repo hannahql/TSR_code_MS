@@ -20,3 +20,6 @@ This code is written in Python 3.
 
 The code requires the following packages: numpy, pandas, matplotlib.pyplot, seaborn, copy, csv, time
 itertools, operator, importlib, json, random, pdb, os, multiprocessing, functools, and scipy.
+
+# Paper
+Full manuscript can be found on [Arxiv](https://arxiv.org/abs/2002.05670) and manuscript, along with all supplementary materials, can be found [here](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4247)
